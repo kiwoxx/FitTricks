@@ -1,0 +1,8 @@
+Launch:
+docker-compose up --build
+
+Api:
+http://localhost:90/home
+
+React App:
+http://localhost:3000/
